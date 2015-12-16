@@ -1,0 +1,2 @@
+# LogSystem
+Wrapper for CocoaLumberjack
